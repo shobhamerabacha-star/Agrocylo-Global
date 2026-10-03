@@ -36,11 +36,9 @@ test-results/
 test_snapshots/
 
 # Environment
-.env*
 !.env.example
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -66,3 +64,4 @@ target/
 # Scratch / working notes
 scratch/
 *.local.md
+config.bat
